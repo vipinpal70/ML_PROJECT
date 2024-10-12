@@ -1,0 +1,8 @@
+[ 2024-10-12 21:45:56,875 ] 26 root - INFO - Entered the data ingestion method or compoment
+[ 2024-10-12 21:45:56,888 ] 31 root - INFO - Read the dataset as dataframe
+[ 2024-10-12 21:45:56,891 ] 36 root - INFO - Train test split initiated
+[ 2024-10-12 21:45:56,896 ] 43 root - INFO - Inmgestion of the data iss completed
+[ 2024-10-12 21:45:56,917 ] 69 root - INFO - Read train and test data completed
+[ 2024-10-12 21:45:56,917 ] 70 root - INFO - obtaining preprocessor object
+[ 2024-10-12 21:45:56,917 ] 50 root - INFO - Numerical columns standard scaling completed
+[ 2024-10-12 21:45:56,917 ] 51 root - INFO - Categorical columns one hot encoding completed

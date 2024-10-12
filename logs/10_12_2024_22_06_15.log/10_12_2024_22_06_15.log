@@ -1,0 +1,14 @@
+[ 2024-10-12 22:06:16,149 ] 26 root - INFO - Entered the data ingestion method or compoment
+[ 2024-10-12 22:06:16,163 ] 31 root - INFO - Read the dataset as dataframe
+[ 2024-10-12 22:06:16,168 ] 36 root - INFO - Train test split initiated
+[ 2024-10-12 22:06:16,172 ] 43 root - INFO - Inmgestion of the data iss completed
+[ 2024-10-12 22:06:16,192 ] 77 root - INFO - Read train and test data completed
+[ 2024-10-12 22:06:16,192 ] 78 root - INFO - obtaining preprocessor object
+[ 2024-10-12 22:06:16,192 ] 58 root - INFO - Numerical columns standard scaling completed
+[ 2024-10-12 22:06:16,192 ] 59 root - INFO - Categorical columns one hot encoding completed
+[ 2024-10-12 22:06:16,192 ] 84 root - INFO - Index(['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch',
+       'test_preparation_course', 'math_score', 'reading_score',
+       'writing_score'],
+      dtype='object')
+[ 2024-10-12 22:06:16,193 ] 92 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2024-10-12 22:06:16,204 ] 102 root - INFO - Saved preprocessing object.

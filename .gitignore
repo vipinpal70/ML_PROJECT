@@ -25,6 +25,8 @@ var/
 .venv/
 venv/
 myenv/
+/myenv
+myenv
 ENV/
 env/
 
